@@ -4,7 +4,8 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "yes or no????": "github:glitchedgui/yes-or-no#b2db663850482cc05a93d389bfc9c1fb0dcb68cc"
     },
     "files": [
         "main.blocks",
